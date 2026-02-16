@@ -1,4 +1,4 @@
-![Awesome ReadME]([https://github.com/EdwarChama/imagenes/blob/main/proyectoFinal.png?raw=true](https://github.com/EdwarChama/imagenes/blob/main/imagen_2026-02-15_210013415.png?raw=true)) 
+![Awesome ReadME](https://github.com/EdwarChama/imagenes/blob/main/imagen_2026-02-15_210013415.png?raw=true) 
 # Empresa de seguros TK-U 
 [![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme) 
 ## Decripción del Problema 
